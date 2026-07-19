@@ -1,0 +1,11 @@
+User
+ |
+GoDaddy DNS
+ |
+Load Balancer
+ |
++------------+
+|            |
+TMB1      TMB2
+ |
+MongoDB Atlas
